@@ -27,9 +27,9 @@ Students will predict the possible effects of their use and creation of technolo
 
 <!Describe the learning activities and how they will be incorporated into the class. For example, will they include class discussion, written reports, homework, or exams? Will the activity be a one-time lesson or used multiple times in class?/>
 
-Students will participate in various online discussions through the canvas platform. Each discussion topic will address different human, cultural, and societal issues related to technology. They will be provided with prompts based on videos or readings assigned throughout each unit. They will also be asked to read and respond to their classmates' contributions. Below are some sample assignments:
+Students will participate in various online discussions through the canvas platform. Their prompts will come from videos and readings assigned throughout each unit. The videos and readings will cover a variety of human, cultural, and societal issues related to technology. Students will also be asked to read and respond to their classmates' responses. Below are some sample assignments:
     
-  - Students will watch the video *AI, Ain't I A Woman?* and respond with their thoughts on AI identifying gender. This will lead into discussion on machine learning and the importance of the data it is based on.
+  - Students will watch the video *AI, Ain't I A Woman?* and respond with their thoughts on AI identifying gender. This will lead into discussion on machine learning and the importance of the data it learns from.
 
   - Students will read Chapter 5 of *Weapons of Math Destruction* and respond to the following prompt: "This chapter discusses many technologies associated with criminal justice and policing, and issues with these technologies. How do you think these issues should be addressed? What do you think is the best solution?"
  
