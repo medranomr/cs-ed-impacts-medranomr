@@ -1,6 +1,6 @@
 # Impacts on Society
 
-<!Describe your course including the name, description, and grade level. Broadly explain how this document details how you plan to incorporate issues of computing impacts on society in your course>
+<!Describe your course including the name, description, and grade level. Broadly explain how this document details how you plan to incorporate issues of computing impacts on society in your course/>
 
 AP Computer Science Principles offers a multidisciplinary approach to teaching the underlying principles of computation. The course will introduce students to the creative aspects of programming, abstractions, algorithms, large data sets, the Internet, cybersecurity concerns, and computing impacts. AP Computer Science Principles will give students the opportunity to use technology to address real-world problems and build relevant solutions. Additionally, students will complete lessons on digital citizenship as provided through the school district.
 
@@ -14,7 +14,7 @@ Grades 9-11
 
 ### Learning Objectives
 
-<!Describe the learning objectives for the class that relate to social impacts. Consider using Bloom's Taxonomy to identify the types of cognitive and/or affective outcomes (and their associated verbs): https://bloomstaxonomy.net/>
+<!Describe the learning objectives for the class that relate to social impacts. Consider using Bloom's Taxonomy to identify the types of cognitive and/or affective outcomes (and their associated verbs): https://bloomstaxonomy.net />
 
 Students will understand human, cultural, and societal issues related to technology. 
 
@@ -25,7 +25,7 @@ Students will predict the possible effects of their use and creation of technolo
 
 ### Learning Activities and Assessment
 
-<!Describe the learning activities and how they will be incorporated into the class. For example, will they include class discussion, written reports, homework, or exams? Will the activity be a one-time lesson or used multiple times in class?>
+<!Describe the learning activities and how they will be incorporated into the class. For example, will they include class discussion, written reports, homework, or exams? Will the activity be a one-time lesson or used multiple times in class?/>
 
 Students will participate in various online discussions through the canvas platform. Each discussion topic will address different human, cultural, and societal issues related to technology. They will be provided with prompts based on videos or readings assigned throughout each unit. They will also be asked to read and respond to their classmates' contributions. Below are some sample assignments:
     
@@ -42,7 +42,7 @@ Students will also participate in group discussions during class to share out th
 Finally, students will participate in a summative discussion. A series of debates on topics discussed throughout the year. Pairs of students will be provided with a prompt, they will gather evidence about the prompt, and decide amongst themselves who will argue in favor of the prompt and who will argue against it. First, students will prepare and recite their initial speeches. They will then have a few days to prepare their rebuttals. They will present their rebuttals and once again have a few days to prepare their closing statements. Finally, they will present their closing statements and answer audience questions.
 
 ### Assessment
-<!Describe how you plan to assess the learning objectives described above.>
+<!Describe how you plan to assess the learning objectives described above./>
 
 For online discussions, students will be assessed based on their participation and use of evidence to support their arguments.
 
@@ -60,7 +60,7 @@ For the summative discussions, students will be assessed by the teacher and thei
 https://docs.google.com/document/d/1POuDWdv_Z3iilTm5Qzx0sKbnrg1Hcf5FWyeVMOak7o0/edit?usp=sharing
 
 ### Outcomes
-<!Describe how your plan will facilitate diversity/equity/inclusion and help broadening participation in computing. Also describe how the course plan will help long-term goals in addressing computing impacts on society.>
+<!Describe how your plan will facilitate diversity/equity/inclusion and help broadening participation in computing. Also describe how the course plan will help long-term goals in addressing computing impacts on society./>
 
 This plan will facilitate equity and inclusion by providing students with some examples of inequities in computing as well as current steps being taken to address them and provide greater inclusion. Further, students will be asked to consider inequities they may see and how they could be corrected. Finally, students will be asked to consider the impacts and accessibility of their own work.
 
