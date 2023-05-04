@@ -47,6 +47,7 @@ Finally, students will participate in a summative discussion. A series of debate
 For online discussions, students will be assessed based on their participation and use of evidence to support their arguments.
 
 For group discussions and class presentations, students will be individually assessed using the following rubric:
+
 | Objective  | Met | Not Met |
 | ------------- | ------------- | ------------- |
 | Notes for Resource #1  |   |   |
